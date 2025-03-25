@@ -12,7 +12,7 @@ A simple and interactive movie information website where users can search for mo
 ## 🛠️ Technologies Used
 
 - **Frontend:** React, HTML, CSS, JavaScript
-- **API:** Used OMDb API (or any other movie API)
+- **API:** Used OMDb API
 
 ## 📷 Screenshots
 
