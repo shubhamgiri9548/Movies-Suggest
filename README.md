@@ -16,7 +16,7 @@ A simple and interactive movie information website where users can search for mo
 
 ## 📷 Screenshots
 
-![Movie Website Screenshot](./screenshots/homepage.png) *(Replace with actual screenshot)*
+![Movie Website Screenshot]()
 
 ## 🏗️ Installation & Setup
 
