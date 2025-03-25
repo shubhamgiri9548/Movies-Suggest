@@ -16,7 +16,8 @@ A simple and interactive movie information website where users can search for mo
 
 ## 📷 Screenshots
 
-![Movie Website Screenshot]()
+![Movie Website Screenshot](https://github.com/shubhamgiri9548/Movies-Suggest/blob/main/Screenshot%202025-03-25%20185743.png?raw=true)
+()
 
 ## 🏗️ Installation & Setup
 
